@@ -4,7 +4,7 @@ LIN driver;production;MLX81310;;4x Driver on-chip, typ.5Ω Halfbridge ;< 0.5;1 t
 LIN driver;production;MLX81315;;4x Driver on-chip, typ.1Ω Halfbridge ;< 1;5 to 10 W [12 V];5.5 to 20;7x LV + 1x HV;Low side on-chip;analog, pwm, spi;✔;175;QFN-32 5x5;MCU;32 KB Flash;512;2;;✔;
 LIN driver;production;MLX81330;https://media.melexis.com/-/media/files/documents/product-abstracts/mlx81330-product-abstract-melexis.pdf;4x Driver on-chip, typ 3Ω Halfbridge ;< 0.5;1 to 5 W [12 V];5.5 to 20 (28);3x LV + 1x HV/LV;Low side on-chip;analog, pwm, spi, sent, I2C;✔;175;QFN-24 4x4, SOIC-8ep;MCU;32 KB Flash + 14 KB ROM;512;2.5;;✔;B
 LIN driver;production;MLX81332;https://media.melexis.com/-/media/files/documents/product-abstracts/mlx81332-product-abstract-melexis.pdf;4x Driver on-chip, typ.0.8Ω Halfbridge ;< 1;5 to 10 W [12 V];5.5 to 20 (28);7x LV + 1x HV/LV;Low side on-chip;analog, pwm, spi, sent, I2C, uart;✔;175;QFN-24 4x4, SOIC-8ep;MCU;32 KB Flash + 16 KB ROM;512;2.5;;✔;B
-LIN driver;production;MLX81334;;4x Driver on-chip, typ.0.8Ω Halfbridge ;< 1;5 to 10 W [12 V];5.5 to 20 (28);7x LV + 1x HV/LV;Low side on-chip;analog, pwm, spi, sent, I2C, uart;✔;175;QFN-24 4x4, SOIC-8ep;MCU;64 KB Flash + 16 KB ROM;512;4.5;;✔;B
+LIN driver;production;MLX81334;https://media.melexis.com/-/media/files/documents/product-abstracts/mlx81334-product-abstract-melexis.pdf;4x Driver on-chip, typ.0.8Ω Halfbridge ;< 1;5 to 10 W [12 V];5.5 to 20 (28);7x LV + 1x HV/LV;Low side on-chip;analog, pwm, spi, sent, I2C, uart;✔;175;QFN-24 4x4, SOIC-8ep;MCU;64 KB Flash + 16 KB ROM;512;4.5;;✔;B
 LIN pre-driver;production;MLX81325;;;;;;;;;;;;;;;;;;
 LIN pre-driver;production;MLX81206;;;;;;;;;;;;;;;;;;
 LIN pre-driver;production;MLX81207;;;;;;;;;;;;;;;;;;
