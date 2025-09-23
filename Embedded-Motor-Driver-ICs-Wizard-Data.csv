@@ -6,7 +6,7 @@ LIN driver;production;MLX81330;https://media.melexis.com/-/media/files/documents
 LIN driver;production;MLX81332;https://media.melexis.com/-/media/files/documents/product-abstracts/mlx81332-product-abstract-melexis.pdf;4x Driver on-chip, typ.0.8Ω Halfbridge ;< 1;5 to 10 W [12 V];5.5 to 20 (28);7x LV + 1x HV/LV;Low side on-chip;analog, pwm, spi, sent, I2C, uart;✔;175;QFN-24 4x4, SOIC-8ep;MCU;32 KB Flash + 16 KB ROM;512;2.5;;✔;B
 LIN driver;production;MLX81334;https://media.melexis.com/-/media/files/documents/product-abstracts/mlx81334-product-abstract-melexis.pdf;4x Driver on-chip, typ.0.8Ω Halfbridge ;< 1;5 to 10 W [12 V];5.5 to 20 (28);7x LV + 1x HV/LV;Low side on-chip;analog, pwm, spi, sent, I2C, uart;✔;175;QFN-24 4x4, SOIC-8ep;MCU;64 KB Flash + 16 KB ROM;512;4.5;;✔;B
 LIN pre-driver;production;MLX81325;https://media.melexis.com/-/media/files/documents/product-abstracts/mlx81325-product-abstract-melexis.pdf;;;;;;;;;;;;;;;;;
-LIN pre-driver;production;MLX81206;;;;;;;;;;;;;;;;;;
+LIN pre-driver;production;MLX81206;https://media.melexis.com/-/media/files/documents/product-abstracts/mlx81206-08-product-abstract-melexis.pdf;;;;;;;;;;;;;;;;;
 LIN pre-driver;production;MLX81207;;;;;;;;;;;;;;;;;;
 LIN pre-driver;production;MLX81208;;;;;;;;;;;;;;;;;;
 LIN pre-driver;production;MLX81340;;;;;;;;;;;;;;;;;;
