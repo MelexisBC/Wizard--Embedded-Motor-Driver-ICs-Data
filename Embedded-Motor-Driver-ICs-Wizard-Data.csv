@@ -1,16 +1,16 @@
 Type;Status;Part number;Datasheet;Driver / Pre-Driver;Drive current per phase;Motor power range;Motor voltage range;IO pins;Motor current sense;Sensor interface;Sensorless support;Junction temperature;Package;Controller;Program 
 memory;NVRAM;RAM;Special;AEC-Q100;ASIL level
-PWM/Serial driver;production;MLX81339;;4x Driver on-chip, typ.0.35Ω Halfbridge ;< 2;< 20 W [12 V], < 40 W [24 V];5 to 26;;;analog, pwm, spi, I2C, uart;✔;150;QFN-24 4x4, SOIC-8ep;MCU;32 KB Flash + 10 KB ROM;1024;2;FOC, StartToRun;✔;
-LIN driver;production;MLX81310;;4x Driver on-chip, typ.5Ω Halfbridge ;< 0.5;1 to 5 W [12 V];5.5 to 20;7x LV + 1x HV;Low side on-chip;analog, pwm, spi;✔;175;QFN-32 5x5;MCU;32 KB Flash;512;2;;✔;
-LIN driver;production;MLX81315;;4x Driver on-chip, typ.1Ω Halfbridge ;< 1;5 to 10 W [12 V];5.5 to 20;7x LV + 1x HV;Low side on-chip;analog, pwm, spi;✔;175;QFN-32 5x5;MCU;32 KB Flash;512;2;;✔;
-LIN driver;production;MLX81330;;4x Driver on-chip, typ 3Ω Halfbridge ;< 0.5;1 to 5 W [12 V];5.5 to 20 (28);3x LV + 1x HV/LV;Low side on-chip;analog, pwm, spi, sent, I2C;✔;175;QFN-24 4x4, SOIC-8ep;MCU;32 KB Flash + 14 KB ROM;512;2.5;;✔;B
-LIN driver;production;MLX81332;;4x Driver on-chip, typ.0.8Ω Halfbridge ;< 1;5 to 10 W [12 V];5.5 to 20 (28);7x LV + 1x HV/LV;Low side on-chip;analog, pwm, spi, sent, I2C, uart;✔;175;QFN-24 4x4, SOIC-8ep;MCU;32 KB Flash + 16 KB ROM;512;2.5;;✔;B
-LIN driver;production;MLX81334;;4x Driver on-chip, typ.0.8Ω Halfbridge ;< 1;5 to 10 W [12 V];5.5 to 20 (28);7x LV + 1x HV/LV;Low side on-chip;analog, pwm, spi, sent, I2C, uart;✔;175;QFN-24 4x4, SOIC-8ep;MCU;64 KB Flash + 16 KB ROM;512;4.5;;✔;B
-LIN pre-driver;production;MLX81325;;;;;;;;;;;;;;;;;;
-LIN pre-driver;production;MLX81206;;;;;;;;;;;;;;;;;;
-LIN pre-driver;production;MLX81207;;;;;;;;;;;;;;;;;;
-LIN pre-driver;production;MLX81208;;;;;;;;;;;;;;;;;;
-LIN pre-driver;production;MLX81340;;;;;;;;;;;;;;;;;;
-LIN pre-driver;production;MLX81344;;;;;;;;;;;;;;;;;;
-LIN pre-driver;production;MLX81346;;;;;;;;;;;;;;;;;;
-LIN pre-driver;production;MLX81160;;;;;;;;;;;;;;;;;;
+PWM/Serial driver;;;;;;;;;;;;;;;;;;;;
+LIN driver;;;;;;;;;;;;;;;;;;;;
+LIN driver;;;;;;;;;;;;;;;;;;;;
+LIN driver;;;;;;;;;;;;;;;;;;;;
+LIN driver;;;;;;;;;;;;;;;;;;;;
+LIN driver;;;;;;;;;;;;;;;;;;;;
+LIN pre-driver;;;;;;;;;;;;;;;;;;;;
+LIN pre-driver;;;;;;;;;;;;;;;;;;;;
+LIN pre-driver;;;;;;;;;;;;;;;;;;;;
+LIN pre-driver;;;;;;;;;;;;;;;;;;;;
+LIN pre-driver;;;;;;;;;;;;;;;;;;;;
+LIN pre-driver;;;;;;;;;;;;;;;;;;;;
+LIN pre-driver;;;;;;;;;;;;;;;;;;;;
+LIN pre-driver;;;;;;;;;;;;;;;;;;;;
